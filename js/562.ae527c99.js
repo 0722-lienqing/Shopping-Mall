@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhm_shooping"]=self["webpackChunkhm_shooping"]||[]).push([[562],{8562:function(n,u,e){e.r(u),e.d(u,{default:function(){return o}});var s=function(){var n=this,u=n._self._c;return u("div",[n._v("user")])},r=[],l={name:"userIndex"},t=l,h=e(1656),i=(0,h.A)(t,s,r,!1,null,null,null),o=i.exports}}]);
+//# sourceMappingURL=562.ae527c99.js.map
